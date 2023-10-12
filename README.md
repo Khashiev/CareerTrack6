@@ -12,9 +12,8 @@
     3.1. Управление результатом      
     3.2. Коммуникация с руководителем      
     3.3. Коммуникация с коллегами/peers.      
-4. [Chapter IV](#chapter-iv) \
-    [Задача 1](#задача-1)    
-5. [Chapter V](#chapter-v) 
+4. [Chapter IV](#chapter-iv) 
+
 
 <h2 id="chapter-i" >Chapter I</h2>
 
