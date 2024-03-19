@@ -36,7 +36,7 @@ References:
 
 1. [A list of soft-skills and how to develop them](materials/Перечень_навыков_.pdf);
 2. [How to build the perfect relationship with your boss](https://prosto.rabota.ru/post/idealno-s-nachalnikom/);
-3. [How to build the perfect relationship with your colleagues](https://hr-portal.ru/article/kak-postroit-idealnye-otnosheniya-s-kollegami);
+3. [How to build the perfect relationship with your colleagues](https://prosto.rabota.ru/post/idealnye-otnosheniya-s-kollegami/);
 4. Career Rules. Everything you need for career advancement by Templar Richard.
 
 ## Chapter II

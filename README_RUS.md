@@ -34,7 +34,7 @@
 Литература:
 1. [Перечень навыков soft-skills и способы их развития](materials/Перечень_навыков_.pdf);  
 2. [Как построить идеальные отношения с начальником](https://prosto.rabota.ru/post/idealno-s-nachalnikom/);  
-3. [Как построить идеальные отношения с коллегами](https://hr-portal.ru/article/kak-postroit-idealnye-otnosheniya-s-kollegami);  
+3. [Как построить идеальные отношения с коллегами](https://prosto.rabota.ru/post/idealnye-otnosheniya-s-kollegami/);  
 4. Правила карьеры. Все, что нужно для служебного роста, Темплар Ричард.    
 
 
